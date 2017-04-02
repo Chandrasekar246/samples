@@ -1,0 +1,5 @@
+com\scs\eis\server\dao\EmployeeDAO.class
+com\scs\eis\server\config\AppConfig.class
+com\scs\eis\server\config\AppInitializer.class
+com\scs\eis\server\model\Employee.class
+com\scs\eis\server\controller\EmployeeRestController.class
