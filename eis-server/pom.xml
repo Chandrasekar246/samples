@@ -19,7 +19,7 @@
 		<springframework.version>4.3.0.RELEASE</springframework.version>
 		<jackson.version>2.10.0.pr1</jackson.version>
 		<servlet.version>3.0.1</servlet.version>
-		<junit.version>4.9</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 	
 	<dependencies>
